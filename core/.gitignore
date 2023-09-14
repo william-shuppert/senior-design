@@ -1,5 +1,9 @@
-# Ignore the YOLOv8 pose model weight file
-yolov8m-pose.pt
+# Ignore different YOLOv8 pose model weight files
+/yolov8n-pose.pt
+/yolov8s-pose.pt
+/yolov8m-pose.pt
+/yolov8l-pose.pt
+/yolov8x-pose.pt
 
 # Ignore video output results from YOLO
 /runs
