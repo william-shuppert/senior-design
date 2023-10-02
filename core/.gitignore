@@ -6,3 +6,5 @@
 
 # Ignore video output results from YOLO
 /runs
+
+/form tracking/videos
