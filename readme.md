@@ -20,7 +20,7 @@
 4. understand what is docker image and container, and the difference between them
 5. CLI cheat sheet: https://dockerlabs.collabnix.com/docker/cheatsheet/
 
-### 9/25/2023
+### 10/02/2023
 1. build docker image and start an instance as a container from dockerfile
 2. build an frontend application (streamlit) in a container
 3. build an backend application (pytorch) in a container
