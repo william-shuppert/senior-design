@@ -24,5 +24,6 @@
 1. build docker image and start an instance as a container from dockerfile
 2. build an frontend application (streamlit) in a container
 3. build an backend application (pytorch) in a container
+4. understand how docker-compose works
 
 
