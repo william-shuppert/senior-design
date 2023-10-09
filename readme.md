@@ -28,3 +28,14 @@
 5. 
 
 
+### 10/09/2023
+1. create an app in the frontend
+2. in this app, allow user upload a video file (.mp4 formate), filesize limit to 200 MB
+3. save it to /storage, sametime, send the file_path to backend
+4. in the backend, read the video file, and process it using YOLO/Mediapipe by human pose detection, save it to /storage, and send the filepath to frontend
+5. in the frontend, display two videos side by side
+6. optional task: looking for human pose classification model
+
+
+
+
