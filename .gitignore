@@ -1,0 +1,8 @@
+deploy/backend/__pycache__/*
+deploy/backend/segmentation_demo/__pycache__/*
+deploy/frontend/__pycache__/*
+deploy/frontend/app2/__pycache__/*
+deploy/frontend/app3/__pycache__/*
+deploy/frontend/app1/__pycache__/*
+deploy/frontend/will_projects/__pycache__/*
+deploy/storage/*
