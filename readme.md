@@ -37,5 +37,8 @@
 6. optional task: looking for human pose classification model
 
 
-
+### 10/16/2023
+1. Continue work on the docker containerized application
+2. expore human pose classification model
+3. optional task: inference with LLM such as ChatGPT
 
