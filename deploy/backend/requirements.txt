@@ -9,3 +9,8 @@ aiofiles==0.4.0
 numpy
 opencv-python
 uvicorn
+imageio
+imageio[ffmpeg]
+av
+imageio_ffmpeg
+mediapipe
