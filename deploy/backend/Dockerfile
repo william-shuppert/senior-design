@@ -1,6 +1,6 @@
-#FROM python:3.10.1-slim
+FROM python:3.10.1-slim
 # FROM tiangolo/uvicorn-gunicorn:python3.7
-FROM nvidia/cuda:11.7.1-cudnn8-devel-ubuntu22.04
+# FROM nvidia/cuda:11.7.1-cudnn8-devel-ubuntu22.04
 
 WORKDIR /app
 

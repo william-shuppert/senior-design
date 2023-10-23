@@ -20,11 +20,11 @@ services:
       - ./backend:/app
       - ./storage:/storage
 
-    # for GPU supports
-    deploy:
-      resources:
-        reservations:
-          devices:
-          - driver: nvidia
-            device_ids: ['0']
-            capabilities: [gpu]
+    # # for GPU supports
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #       - driver: nvidia
+    #         device_ids: ['0']
+    #         capabilities: [gpu]
