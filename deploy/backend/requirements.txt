@@ -1,0 +1,16 @@
+# backend/requirements.txt
+
+fastapi==0.68.0
+pillow
+torch
+torchvision
+python-multipart==0.0.5 
+aiofiles==0.4.0
+numpy
+opencv-python
+uvicorn
+imageio
+imageio[ffmpeg]
+av
+imageio_ffmpeg
+mediapipe
