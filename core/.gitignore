@@ -1,0 +1,10 @@
+# Ignore different YOLOv8 pose model weight files
+/yolov8*.pt
+
+# Ignore different MediaPipe pose model files
+/*landmarker*.task
+
+# Ignore video output results from YOLO
+/runs
+
+/form tracking/videos
