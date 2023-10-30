@@ -43,8 +43,13 @@
 3. optional task: inference with LLM such as ChatGPT
 
 
-## 10/23/2023
+### 10/23/2023
 1. fork from the main branch, and try to make that branch work
 2. focus on the human pose classification model (https://github.com/dronefreak/human-action-classification) or any other repo
 3. create video datasets base on instructions
 
+
+### 10/30/2023
+1. expore the something2something & kinetic 400 datasets, looking for useful human action video clips
+2. keep collection more useful videos from selfs
+3. train a more robust model based on that
