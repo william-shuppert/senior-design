@@ -53,3 +53,9 @@
 1. expore the something2something & kinetic 400 datasets, looking for useful human action video clips
 2. keep collection more useful videos from selfs
 3. train a more robust model based on that
+
+
+### 11/06/2023
+1. expore the something2something & kinetic 400 datasets, looking for website allows you to download videos in specific action labels
+2. Ming Chen go ask Dr. Lin see if we can buy some disk for storage videos
+3. perform video action image data augmentation for better model training
