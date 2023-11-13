@@ -59,3 +59,9 @@
 1. expore the something2something & kinetic 400 datasets, looking for website allows you to download videos in specific action labels
 2. Ming Chen go ask Dr. Lin see if we can buy some disk for storage videos
 3. perform video action image data augmentation for better model training
+
+
+### 11/13/2023
+1. waiting for the Hard Drive to store videos data
+2. downloading the kinetic 400 datasets
+3. start playing model training using the 5% subset of kinetic 400 dataset before the HD coming
