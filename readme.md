@@ -65,3 +65,9 @@
 1. waiting for the Hard Drive to store videos data
 2. downloading the kinetic 400 datasets
 3. start playing model training using the 5% subset of kinetic 400 dataset before the HD coming
+
+
+### 02/05/2024
+1. Transformer, read paper (https://arxiv.org/abs/1706.03762), model design, the difference from deep learning model
+2. GPT3, read the research paper (https://arxiv.org/abs/2005.14165)
+3. review the action recognition model done by last semester
