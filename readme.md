@@ -71,3 +71,9 @@
 1. Transformer, read paper (https://arxiv.org/abs/1706.03762), model design, the difference from deep learning model
 2. GPT3, read the research paper (https://arxiv.org/abs/2005.14165)
 3. review the action recognition model done by last semester
+
+
+### 02/12/2024
+1.  continue read the papers
+2.  learn what are 1) positioning; 2) attention; 3) self-attention in transformer model
+3.  read vision transformer: https://arxiv.org/abs/2010.11929
