@@ -77,3 +77,11 @@
 1.  continue read the papers
 2.  learn what are 1) positioning; 2) attention; 3) self-attention in transformer model
 3.  read vision transformer: https://arxiv.org/abs/2010.11929
+
+
+### 02/26/2024
+1. Prepare 1 page PPT: 1) GPT-3 2) Vision Transformer model 3) OpenAI CLIP model 4) or any other LLM model you proposed
+2. set up the connection to HPC system "redhawk.hpc.miamioh.edu" by watching the recordings
+3. work on set up ask-anything repo (https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat) (optinal)
+4. download all the needed models (optinal)
+
