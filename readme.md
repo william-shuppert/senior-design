@@ -85,3 +85,8 @@
 3. work on set up ask-anything repo (https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat) (optinal)
 4. download all the needed models (optinal)
 
+
+### 03/04/2024
+1. Set up redhawk server, and load nvidia CUDA related modules
+3. Work on set up ask-anything repo (https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat)
+4. Download all the needed models 
