@@ -90,3 +90,10 @@
 1. Set up redhawk server, and load nvidia CUDA related modules
 3. Work on set up ask-anything repo (https://github.com/OpenGVLab/Ask-Anything/tree/main/video_chat)
 4. Download all the needed models 
+
+
+### 03/11/2024
+1. Set up redhawk server, and load nvidia CUDA related modules
+2. convert the 7b model using apply_delta.py 
+3. Download all the rest of the models 
+4. create a conda env, "conda env export | cut -f 1 -d '=' | grep -v "prefix" > environment.yml", "conda env create -f environment.yml", install all required packages
