@@ -97,3 +97,5 @@
 2. convert the 7b model using apply_delta.py 
 3. Download all the rest of the models 
 4. create a conda env, "conda env export | cut -f 1 -d '=' | grep -v "prefix" > environment.yml", "conda env create -f environment.yml", install all required packages
+
+test
