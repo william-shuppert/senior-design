@@ -98,4 +98,6 @@
 3. Download all the rest of the models 
 4. create a conda env, "conda env export | cut -f 1 -d '=' | grep -v "prefix" > environment.yml", "conda env create -f environment.yml", install all required packages
 
-test
+### 03/18/2024
+1. run into issue install packages, Ming will look into it.
+2. try run the streamlit API in redhawk server
